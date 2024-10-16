@@ -1,0 +1,10 @@
+{
+	"name": "FE-Tools",
+	"description": "My Chrome Extension for Frontend developers",
+	"version": "1.0.1",
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "index.html",
+		"default_icon": "logo.png"
+	}
+}
